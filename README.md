@@ -5,4 +5,11 @@ You just need to run this file on command line or through pycharm(I suggest you 
 This program is for 3 cutomers(Zeba,Sherry,Ram)
 
 
+Program running commandline
+![healthmanew](https://user-images.githubusercontent.com/82167334/148114015-f55a8756-19e6-4105-94b0-ceb7454511dc.png)
 
+
+
+Folders & Files
+
+![helthman2](https://user-images.githubusercontent.com/82167334/148114127-b1ed8f97-1d9b-41d9-93a0-71e0f5bdfc6b.png)
